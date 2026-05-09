@@ -21,7 +21,7 @@ body {
 }
 
 .post-title, .post-excerpt {
-  color: grey;
+  color: #4a4a4a;
   margin: 16px;
 }
 
@@ -33,6 +33,7 @@ body {
   border-radius: 10px;
   display: inline-block;
   transition: background-color 0.3s ease;
+  text-decoration: none;
 }
 .read-more:hover {
   background-color: grey;
