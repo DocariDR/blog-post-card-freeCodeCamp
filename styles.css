@@ -5,7 +5,8 @@ body {
 .blog-post-card {
   background-color: white;
   border-radius: 20px;
-  width: 70vw;
+  margin: 40px auto;
+  max-width: 480px;
   text-align: center;
 }
 
