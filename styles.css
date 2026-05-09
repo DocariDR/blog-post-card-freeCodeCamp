@@ -8,6 +8,7 @@ body {
   margin: 40px auto;
   max-width: 480px;
   text-align: center;
+  overflow: hidden;;
 }
 
 .post-img {
